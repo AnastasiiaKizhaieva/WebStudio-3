@@ -34,7 +34,6 @@ body {
     font-family: Roboto, sans-serif;
     letter-spacing: 0.03em;
 
-    /* max-width: 1600px; */
     min-width: 1600px;
 }
 
@@ -234,7 +233,7 @@ ul {
 
     padding-bottom: 200px;
     padding-top: 200px;
-    max-width: 1600px;
+    min-width: 1600px;
     min-height: 600px;
 
     text-align: center;
@@ -564,6 +563,7 @@ ul {
     display: flex;
 
     margin-bottom: 94px;
+    padding: 0;
 }
 
 .clients-title {
